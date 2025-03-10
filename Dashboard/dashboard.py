@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.title("Visualisasi dan Analisis Penyewaan Sepeda")
-df_day = pd.read_csv("Data/day.csv")
-df_hour = pd.read_csv("Data/hour.csv")
+df_day = pd.read_csv("data/day.csv")
+df_hour = pd.read_csv("data/hour.csv")
 
 st.header("Pengaruh Cuaca terhadap Penyewaan Sepeda")
 fig, ax = plt.subplots(figsize=(8, 5))
