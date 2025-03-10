@@ -1,10 +1,10 @@
 # Dicoding-Collection-Dashboard
-**Setup Environment - Shell/Terminal**<br>
+**Setup Environment - Shell/Terminal**
 ```
-mkdir proyek_analisis_data<br>
-cd proyek_analisis_data<br>
-python -m venv venv<br>
-venv\Scripts\activate<br>
+mkdir proyek_analisis_data
+cd proyek_analisis_data
+python -m venv venv
+venv\Scripts\activate
 pip install streamlit pandas matplotlib seaborn
 pip install -r requirements.txt
 ```
