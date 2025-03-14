@@ -1,4 +1,4 @@
-# Dicoding-Collection-Dashboard
+# Dashboard-Bike-Sharing
 **Setup Environment - Shell/Terminal**
 ```
 mkdir proyek_analisis_data
